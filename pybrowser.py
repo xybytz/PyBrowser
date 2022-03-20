@@ -17,8 +17,6 @@ win.geometry("700x350")
 while a == 1:
     print("What website would you like to go to?")
     weburl = input()
-    if weburl != "https://www.facebook.com":
-        webview.create_window(weburl, weburl)
-        webview.start()
-    else:
-        print("Website blocked by Content Filtering")
+    webview.create_window(weburl, weburl)
+    webview.start()
+    
