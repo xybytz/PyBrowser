@@ -11,3 +11,8 @@ Steps to Install:
   -Enter ./pybrowser.sh
   
 Voila! You have installed PyBrowser! Type in the website you would like to visit in the console (with www) and press enter. Exit the running window to open a different website.
+
+
+FOR MAC:
+
+Install the DMG file.
