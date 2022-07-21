@@ -15,4 +15,7 @@ Voila! You have installed PyBrowser! Type in the website you would like to visit
 
 FOR MAC:
 
-Install the DMG file.
+Install the APP file.
+
+This file is not signed, so you will have to authorize the installation in Settings>General>Security and Privacy. 
+This will require your admin password.
